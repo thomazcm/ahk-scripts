@@ -1,0 +1,16 @@
+Resources/config.ini
+Resources/logfile.txt
+TestFunctions.ahk
+TestKeys.ahk
+
+Include/ScriptArchive
+Include/Browsers/Opera.ahk
+Include/Browsers/BrowserInfo.ahk
+Include/Games/Old
+
+SnapFunctions.ahk
+SnapMain.ahk
+
+TempScripts/AI.ahk
+TempScripts/Legenda.ahk
+Resources/notes.txt
